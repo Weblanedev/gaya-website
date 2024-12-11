@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--background: #F8F7F7;
+	--foreground: #004EEB;
+	--primary: #004EEB;
+	--primary-0: #f8f5ff;
+	--primary-100: #d4c5fd;
+	--primary-900: #2e0e87;
+	--gray-0: #d7d3da;
+	--gray-400: #736779;
+	--gray-500: #59505e;
+	--gray-600: #3f3842;
+	--gray-700: #3d3842;
+	--gray-800: #242127;
+	--gray-900: #0a090b;
+	--white: #ffffff;
+	--footer-text: #ebe9ec;
+	--card-des: #f1ebff;
+	--secondary-100: #c5eafd;
+	--blue-200: #8A93A5;
+	--blue-300: #55627C;
+	--blue-400: #344363;
+	--blue-500: #4E5BA6;
+	--blue-700: #363F72;
+	--blue-800: #010B21;
+	--gray-cool:#30374F;
+	--gray-blue-25:#EFF4FF;
+	--gray-blue-50:#F8F9FC;
+	--gray-blue-400:#717BBC;
+	--gray-blue-800:#293056;
+	--sky-blue-25: #EFF4FF;
+	--sky-blue-100: #B2CCFF;
+	--sky-blue-300: #528BFF;
+	--sky-blue-400: #2970FF;
+	--success:#009900;
+}
+
+body {
+	font-family: Rethink Sans, sans-serif;
+	overflow-x: hidden;
+}
+
